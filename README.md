@@ -1,7 +1,7 @@
 ### Olá, me chamo Ítalo  👋
 ##
 
-- <img src="https://img.icons8.com/emoji/20/000000/man-with-beard-light-skin-tone.png"/> Tenho 25 anos, sou brasileiro e moro em Salvador - BA.
+- <img src="https://img.icons8.com/emoji/20/000000/man-with-beard-light-skin-tone.png"/> Sou brasileiro e moro em Salvador - BA.
 - :books: Esp. Engenharia de Software e Gestão de Projetos.
 -  :mortar_board: Desenvolvedor web Full Stack - [Trybe](https://www.betrybe.com/).
 -  :mortar_board: Engenheiro.
